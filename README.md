@@ -10,4 +10,4 @@ I'm a mid-level developer proficient in Rust, Python, and Lua. Passionate about 
 - Git - 🦊✨
 
 ### 📫 How to reach me:
-- [Discord](.nazeon)
+- [Discord](.nazeon)🎮✨
